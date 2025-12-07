@@ -7,7 +7,7 @@ This case study demonstrates my ability to:
 - Design interactive dashboards
 - Communicate insights in a business-friendly way
 
----
+
 
 ## Dashboard Overview
 
@@ -20,7 +20,7 @@ The **Retail Performance Dashboard** includes:
 
 This dashboard allows business users to filter and explore sales performance across different dimensions to support decision-making.
 
----
+
 
 ## Tools & Skills Used
 
@@ -38,7 +38,7 @@ This dashboard allows business users to filter and explore sales performance acr
 - Dashboard layout & UX  
 - Business insights communication  
 
----
+
 
 ## DAX Measures Used
 
