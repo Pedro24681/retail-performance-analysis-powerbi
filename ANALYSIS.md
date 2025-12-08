@@ -260,6 +260,6 @@ The Retail Performance Analysis PowerBI project provides a comprehensive framewo
 5. Integrate with operational systems for automated actions
 
 
-**For questions or further analysis, please contact:** Pedro24681
+**For questions or further analysis, please contact me at:** Pedro24681
 
 **Project Repository:** Pedro24681/retail-performance-analysis-powerbi
