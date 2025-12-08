@@ -4,18 +4,6 @@
 **Project Owner:** Pedro24681
 
 
-# Table of Contents
-1. [Project Overview](#project-overview)
-2. [Analysis Objectives](#analysis-objectives)
-3. [Data Structure](#data-structure)
-4. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
-5. [Methodology](#methodology)
-6. [Findings & Insights](#findings--insights)
-7. [Recommendations](#recommendations)
-8. [Technical Implementation](#technical-implementation)
-9. [Dashboard Components](#dashboard-components)
-10. [Conclusion](#conclusion)
-
 
 # Project Overview
 
