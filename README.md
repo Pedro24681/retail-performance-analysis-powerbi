@@ -9,7 +9,7 @@ This case study demonstrates my ability to:
 
 
 
-## Dashboard Overview
+# Dashboard Overview
 
 The **Retail Performance Dashboard** includes:
 - **4 KPI Cards:** Total Sales, Total Profit, Profit Margin, Average Shipping Days  
@@ -22,7 +22,7 @@ This dashboard allows business users to filter and explore sales performance acr
 
 
 
-## Tools & Skills Used
+# Tools & Skills Used
 
 **Tools**
 - Power BI Desktop  
@@ -40,7 +40,7 @@ This dashboard allows business users to filter and explore sales performance acr
 
 
 
-## DAX Measures Used
+# DAX Measures Used
 
 ```DAX
 Total Sales = SUM('Sample - Superstore'[Sales])
