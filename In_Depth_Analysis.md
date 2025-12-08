@@ -1,16 +1,5 @@
 # Comprehensive Analysis Report
-# Retail Performance Analysis — Superstore Dataset
-
--
-
-# Table of Contents
-1. [Methodology](#methodology)
-2. [Data Approach](#data-approach)
-3.  [Challenges & Solutions](#challenges--solutions)
-4. [Deep-Dive Findings](#deep-dive-findings)
-5. [Technical Decisions](#technical-decisions)
-6.  [Business Impact](#business-impact)
-
+Retail Performance Analysis — Superstore Dataset
 
 
 # Methodology
