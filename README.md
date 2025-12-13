@@ -1,5 +1,5 @@
 # retail-performance-analysis-powerbi
-Greetings! This project I made analyzes retail sales performance using the Superstore dataset. The goal was to design a professional, interactive Power BI dashboard that highlights key business performance metrics, regional trends, category profitability, and sales patterns over time
+Greetings! This project I made analyzes retail sales performance using the Superstore dataset. My goal here was to design a professional, interactive Power BI dashboard that highlights key business performance metrics, regional trends, category profitability and sales patterns over time. I've created a 'screenshots' folder to showcase the interactive dashboard as well. Please reference that.
 This case study demonstrates my ability to:
 - Clean and model data
 - Create DAX measures
